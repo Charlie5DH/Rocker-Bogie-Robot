@@ -9,7 +9,7 @@ platform are selected and their details and physical characteristics are display
 is used as path planning stage to provide a path free of obstacles. A trajectory generation algorithm is implemented using clothoid curves to obtain a smoother path,
 showing the results of the variations of orientation in the trajectory and the curves generated between the planned points. A trajectory tracking control is implemented for the robot using the Vector Field Orientation algorithm, showing the actual trajectory obtained and the error with the reference.
 
-<img src="\Images\20180628_084812.jpg" style="zoom: 25%;" />
+<img src="Images/20180628_084812.jpg" style="zoom: 25%;" />
 
 
 
